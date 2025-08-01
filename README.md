@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=200&text=About%20me&fontSize=80&&customColorList=6&&fontAlignY=35"/>
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=About%20me&fontSize=80&&customColorList=6&&fontAlignY=35"/>-->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&text=About%20me&fontSize=80&fontAlignY=35&fontColor=ffffff"/>
 </p>
 
 <p align="center"> I'm a Brazilian backend developer and data analyst named Rodrigo.<br>This is my GitHub Profile - a manifestation of my ideas, creativity and a touch of madness. :grimacing: </p>
@@ -34,10 +35,10 @@
 
 <h1 align="center"> My GitHub Stats </h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,b50292,018f8f&hide_title=true&hide=stars"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,b50292,018f8f&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,000428,004e92&hide_title=true&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,000428,004e92&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=100&fontSize=90&&customColorList=6&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&fontSize=90&&section=footer"/>
 </p>
