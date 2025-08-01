@@ -35,8 +35,8 @@
 
 <h1 align="center"> My GitHub Stats </h1>
 <p align="center">
-  <img src="https://github-readme-stats-roan-chi-39.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,000428,004e92&hide_title=true&hide=stars"/>
-  <img src="https://github-readme-stats-roan-chi-39.vercel.app/api/top-langs/?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,000428,004e92&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,000428,004e92&hide_title=true&hide=stars"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,000428,004e92&layout=compact"/>
 </p>
 
 <p align="center">
