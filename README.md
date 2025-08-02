@@ -14,7 +14,7 @@
 
 <div align="center">
   <br>
-    <a href="https://www.linkedin.com/in/rodrigorfl" target="_blank"><img src="https://img.shields.io/badge/Check%20my%20linkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/rodrigorfl" target="_blank"><img src="https://img.shields.io/badge/Check%20out%20my%20LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank">
       
 </div>
 
