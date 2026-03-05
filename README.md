@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&text=About%20me&fontSize=80&fontAlignY=35&fontColor=ffffff"/>
 </p>
 
-<p align="center"> I'm a Brazilian backend developer and data analyst named Rodrigo.<br>This is my GitHub Profile - a manifestation of my ideas, creativity and a touch of madness. :grimacing: </p>
+<p align="center"> Hello world, I'm Rodrigo!<br>This is my GitHub Profile - a manifestation of my ideas, creativity and a touch of madness. :grimacing: </p>
 
 <p align="center">
   Being a tech enthusiast all my life, I've explored many areas of IT.<br>
