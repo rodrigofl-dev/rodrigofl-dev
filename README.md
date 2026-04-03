@@ -9,7 +9,8 @@
   Being a tech enthusiast all my life, I've explored many areas of IT.<br>
   My most recent role was as a Database Administrator, where I worked with technologies related to data analysis, data manipulation, modeling and also database management.<br>
   Later, my career took a turn and I found myself in need of change - that's when I started a Data Science degree.<br>
-  Backend development came naturally to me, as I've always had a crush on Python. Many web projects use the language for its simplicity and developer-friendly implementation. Now, I'm looking forward to expanding my knowledge in this field.
+  Backend development came naturally to me, as I've always had a crush on Python. Many web projects use the language for its simplicity and developer-friendly implementation.<br>
+  <br>Now, I'm looking forward to applying and expanding my knowledge in Data Science.
 </p>
 
 <div align="center">
