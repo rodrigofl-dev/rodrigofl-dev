@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/rodrigorfl" target="_blank"><img src="https://img.shields.io/badge/Check%20out%20my%20LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank">
       
 </div>
-
+ <!--
 <h1 align="center"> Tools & Languages</h1>
 <div align="center">
   <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
@@ -27,15 +27,32 @@
   <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
   <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  -->
   <br>
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
   <img title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 </div>
+-->
+<!--
+<h1 align="center"> 📊 Data Science Projects </h1>
+<p align="center">
+  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+    <img src="https://github-readme-stats-delta-one-10.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projeto 1" width="400" />
+  </a>
+  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+    <img src="https://github-readme-stats-delta-one-10.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projeto 2" width="400" />
+  </a>
+</p>
+-->
+<br>
+<h1 align="center"> 🧠 Data Science Projects </h1>
 
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**Titanic - Machine Learning from Disaster (Kaggle)**](https://github.com/rodrigofl-dev/titanic-ml-project) | Binary classification pipeline. Implemented feature engineering and hyperparameter tuning across tree-based algorithms (RandomForest, GradientBoosting, AdaBoost, XGBoost). Final predictions aggregated via Voting Classifier to optimize Kaggle score.  | `Python`, `Scikit-Learn`, `Pandas` |
+<br>
 
-<h1 align="center"> My GitHub Stats </h1>
+<h1 align="center"> 📊 My GitHub Stats </h1>
 <p align="center">
   <img src="https://github-readme-stats-delta-one-10.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,000428,004e92&hide_title=true&hide=stars"/>
   <img src="https://github-readme-stats-delta-one-10.vercel.app/api/top-langs/?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,000428,004e92&layout=compact"/>
