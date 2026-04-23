@@ -46,11 +46,11 @@
 </p>
 -->
 <br>
-<h1 align="center"> 🧠 Data Science Projects </h1>
+<h1 align="center"> 🧠 Data Projects </h1>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Titanic - Machine Learning from Disaster (Kaggle)**](https://github.com/rodrigofl-dev/titanic-ml-project) | Binary classification pipeline. Implemented feature engineering and hyperparameter tuning across tree-based algorithms (RandomForest, GradientBoosting, AdaBoost, XGBoost). Final predictions aggregated via Voting Classifier to optimize Kaggle score.  | `Python`, `Scikit-Learn`, `Pandas` |
+| Project | Description | Stack | Type
+| :--- | :--- | :--- | :--- |
+| [**Titanic - Machine Learning from Disaster (Kaggle)**](https://github.com/rodrigofl-dev/titanic-ml-project) | Binary classification pipeline. Implemented feature engineering and hyperparameter tuning across tree-based algorithms (RandomForest, GradientBoosting, AdaBoost, XGBoost). Final predictions aggregated via Voting Classifier to optimize Kaggle score.  | `Python`, `Scikit-Learn`, `Pandas` | Machine Learning
 <br>
 
 <h1 align="center"> 📊 My GitHub Stats </h1>
