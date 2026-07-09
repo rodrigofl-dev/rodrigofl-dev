@@ -1,64 +1,69 @@
-<p align="center">
-  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=About%20me&fontSize=80&&customColorList=6&&fontAlignY=35"/>-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&text=About%20me&fontSize=80&fontAlignY=35&fontColor=ffffff"/>
-</p>
-
-<p align="center"> Hello world, I'm Rodrigo!<br>This is my GitHub Profile - a manifestation of my ideas, creativity and a touch of madness. :grimacing: </p>
-
-<p align="center">
-  Being a tech enthusiast all my life, I've explored many areas of IT.<br>
-  My most recent role was as a Database Administrator, where I worked with technologies related to data analysis, data manipulation, modeling and also database management.<br>
-  Later, my career took a turn and I found myself in need of change - that's when I started a Data Science degree.<br>
-  Back-end development came naturally to me, as I've always had a crush on Python. Many web projects use the language for its simplicity and developer-friendly implementation.<br>
-  <br>Now, I'm looking forward to applying and expanding my knowledge in Data Science and/or Back-end Development.
+<p align="center"> 
+  <b>Hello world, I'm Rodrigo!</b> <br>
+  This is my GitHub Profile - a manifestation of my ideas, creativity and a touch of madness. :grimacing: 
 </p>
 
 <div align="center">
-  <br>
-    <a href="https://www.linkedin.com/in/rodrigorfl" target="_blank"><img src="https://img.shields.io/badge/Check%20out%20my%20LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank">
-      
+    <a href="https://www.linkedin.com/in/rodrigorfl" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 </div>
- <!--
-<h1 align="center"> Tools & Languages</h1>
-<div align="center">
-  <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
-  <!--
-  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  <img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <br>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
-  <img title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</div>
--->
+
+<br>
+
+### 👨‍💻 About Me
+
+I am a Tech Enthusiast bridging the gap between Data and Back-end Development. 
+
+- 💾 **Background:** Former Database Administrator. I have solid experience with data analysis, manipulation, modeling, and DB management.
+- 🐍 **Current Focus:** Trying to become an ABD *(Awesome Back-end Developer) xD,* building scalable Back-end solutions with Python.
+- 🎯 **Goal:** Applying my deep understanding of data persistence to create robust APIs and data-driven applications.
 <!--
-<h1 align="center"> 📊 Data Science Projects </h1>
-<p align="center">
-  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
-    <img src="https://github-readme-stats-delta-one-10.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projeto 1" width="400" />
-  </a>
-  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
-    <img src="https://github-readme-stats-delta-one-10.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projeto 2" width="400" />
-  </a>
-</p>
+---
+### 🛠️ Tech Stack & Tools
+
+**Languages**<br>
+<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+
+**Frameworks & Back-end**<br>
+<img title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+<img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+
+**Databases & DevOps**<br>
+<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 -->
-<br>
-<h1 align="center"> 🧠 Data Projects </h1>
+---
 
-| Project | Description | Stack | Type
-| :--- | :--- | :--- | :--- |
-| [**Titanic - Machine Learning from Disaster (Kaggle)**](https://github.com/rodrigofl-dev/titanic-ml-project) | Binary classification pipeline. Implemented feature engineering and hyperparameter tuning across tree-based algorithms (RandomForest, GradientBoosting, AdaBoost, XGBoost). Final predictions aggregated via Voting Classifier to optimize Kaggle score.  | `Python`, `Scikit-Learn`, `Pandas` | Machine Learning
-<br>
+### 🚀 Featured Portfolio
 
-<h1 align="center"> 📊 My GitHub Stats </h1>
+<div align="center">
+  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
+  </a>
+  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
+  </a>
+  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
+  </a>
+</div>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=rodrigofl-dev&show_icons=true&include_all_commits=true&count_private=true&theme=ambient_gradient&bg_color=0,000428,004e92&hide_title=true&hide=stars"/>
-  <!--<img src="https://github-stats-extended.vercel.app/api?username=rodrigofl-dev&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=0,000428,004e92&layout=compact"/>-->
 </p>
-
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&fontSize=90&&section=footer"/>
 </p>
