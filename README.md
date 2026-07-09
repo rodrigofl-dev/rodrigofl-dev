@@ -60,6 +60,8 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.32%20thousand%20lines%20of%20code-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 18.4 kB Used in GitHub's Storage 
@@ -75,33 +77,28 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-🌆 Daytime                59 commits          ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-🌃 Evening                100 commits         ████████████░░░░░░░░░░░░░   49.50 % 
-🌙 Night                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+🌞 Morning                6 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.96 % 
+🌆 Daytime                60 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.56 % 
+🌃 Evening                100 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.26 % 
+🌙 Night                  37 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Wednesday                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Monday                   58 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.57 % 
+Tuesday                  21 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 % 
+Wednesday                33 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.26 % 
+Thursday                 35 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.24 % 
+Friday                   34 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.75 % 
+Saturday                 12 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 % 
+Sunday                   10 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.93 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
@@ -114,20 +111,16 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   5 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.00 % 
+Jupyter Notebook         2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 % 
+TypeScript               2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 % 
+Shell                    1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
 ```
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/rodrigofl-dev/rodrigofl-dev/main/assets/bar_graph.png)
-
-
- Last Updated on 09/07/2026 18:13:36 UTC
+ Last Updated on 09/07/2026 18:26:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
