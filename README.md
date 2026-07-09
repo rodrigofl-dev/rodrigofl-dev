@@ -56,6 +56,78 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 18.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 35 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                59 commits          ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌃 Evening                100 commits         ████████████░░░░░░░░░░░░░   49.50 % 
+🌙 Night                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Wednesday                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/rodrigofl-dev/rodrigofl-dev/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2026 18:13:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
