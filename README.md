@@ -41,6 +41,8 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 
 ### 🚀 Featured Portfolio
 
+<h3>Some awesome projects coming soon!</h3>
+<!--
 <div align="center">
   <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
@@ -52,7 +54,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
   </a>
 </div>
-
+-->
 ---
 
 <!--START_SECTION:waka-->
