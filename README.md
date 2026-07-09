@@ -16,7 +16,7 @@
 I am a Tech Enthusiast bridging the gap between Data and Back-end Development. 
 
 - 💾 **Background:** Former Database Administrator. I have solid experience with data analysis, manipulation, modeling, and DB management.
-- 🐍 **Current Focus:** Trying to become an ABD *(Awesome Back-end Developer) xD,* building scalable Back-end solutions with Python.
+- 🐍 **Current Focus:** Transitioning from DBA to ABD *(Awesome Back-end Developer)* xD, building scalable solutions with Python.
 - 🎯 **Goal:** Applying my deep understanding of data persistence to create robust APIs and data-driven applications.
 <!--
 ---
