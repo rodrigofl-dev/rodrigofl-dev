@@ -77,21 +77,21 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.96 % 
-🌆 Daytime                60 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.56 % 
-🌃 Evening                100 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.26 % 
-🌙 Night                  37 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.23 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌆 Daytime                61 commits          ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌃 Evening                100 commits         ████████████░░░░░░░░░░░░░   49.02 % 
+🌙 Night                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   58 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.57 % 
-Tuesday                  21 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 % 
-Wednesday                33 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.26 % 
-Thursday                 35 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.24 % 
-Friday                   34 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.75 % 
-Saturday                 12 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 % 
-Sunday                   10 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.93 % 
+Monday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Wednesday                33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 
 
@@ -111,16 +111,16 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.00 % 
-Jupyter Notebook         2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 % 
-TypeScript               2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 % 
-Shell                    1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.00 % 
+Python                   5 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 09/07/2026 18:26:58 UTC
+ Last Updated on 09/07/2026 18:30:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
