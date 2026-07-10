@@ -128,6 +128,7 @@ Shell                    1 repo              ██░░░░░░░░░�
  Last Updated on 10/07/2026 16:12:45 UTC
 <!--END_SECTION:waka-->
 
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 <!--
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
