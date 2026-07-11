@@ -11,7 +11,7 @@
 
 <br>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a Tech Enthusiast bridging the gap between Data and Back-end Development. 
 
@@ -39,7 +39,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 -->
 ---
 
-### 🚀 Featured Portfolio
+## 🚀 Featured Portfolio
 
 <div align="center">
   <a href="https://github.com/rodrigofl-dev/aneleh-commerce-api">
