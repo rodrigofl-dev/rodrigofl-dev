@@ -40,7 +40,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 ---
 
 ## 🚀 Featured Portfolio
-
+<!--
 <div align="center">
   <a href="https://github.com/rodrigofl-dev/aneleh-commerce-api">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=aneleh-commerce-api&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
