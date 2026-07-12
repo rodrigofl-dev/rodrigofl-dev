@@ -43,10 +43,10 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 
 <div align="center">
   <a href="https://github.com/rodrigofl-dev/aneleh-commerce-api">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=aneleh-commerce-api&theme=ambient_gradient&bg_color=0,000428,004e92&show_icons=true" width="400" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=aneleh-commerce-api&theme=github_dark" width="400" />
   </a>
 </div>
-<!--  <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
+<!--  <a href="https://github.com/rodrigofl-dev/titanic-ml-project"> &bg_color=0,000428,004e92&show_icons=true
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrigofl-dev&repo=titanic-ml-project&theme=ambient_gradient&bg_color=0,000428,004e92" width="400" />
   </a>
   <a href="https://github.com/rodrigofl-dev/titanic-ml-project">
