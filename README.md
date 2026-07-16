@@ -70,7 +70,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 9 Repositórios Públicos 
+> 📜 8 Repositórios Públicos 
  > 
 > 🔑 0 Repositórios Privados 
  > 
@@ -125,7 +125,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 00:42:10 UTC
+ Last Updated on 16/07/2026 01:04:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
