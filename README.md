@@ -58,9 +58,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-50.52%20thousand%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-50%2C52%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -116,16 +114,16 @@ multi-container-app      18 mins             ░░░░░░░░░░░�
 **Eu geralmente programo em Python** 
 
 ```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-Jupyter Notebook         2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 16/07/2026 02:35:45 UTC
+ Last Updated on 16/07/2026 03:13:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
