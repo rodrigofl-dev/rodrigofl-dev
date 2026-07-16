@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="README.md">Português</a>
+  <a href="https://github.com/rodrigofl-dev">Português</a>
 </div>
 
 ---
