@@ -58,7 +58,7 @@ I am a Tech Enthusiast bridging the gap between Data and Back-end Development.
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-50%2C52%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-50.52%20thousand%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -123,7 +123,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 03:13:44 UTC
+ Last Updated on 16/07/2026 03:17:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
