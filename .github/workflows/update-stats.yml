@@ -20,3 +20,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
           LOCALE: "pt"
+          SHOW_PROFILE_VIEWS: "False"
