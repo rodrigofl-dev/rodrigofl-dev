@@ -20,7 +20,7 @@
 Sou um entusiasta em tecnologia perdido entre dados e back-end.
 
 - 💾 **Background:** Ex-DBA. Tenho muita experiência com manipulação de dados, administração de banco, modelagem e análise.
-- 🐍 **Foco atual:** Transicionando de DBA para ABD *(Awesome Back-end Developer)* xD, construindo soluções escaláveis em Python.
+- 🐍 **Foco atual:** Transicionando de DBA para ABD *(Awesome Backend Developer)* xD, construindo soluções escaláveis em Python.
 - 🎯 **Objetivo:** Aplicar minha bagagem de dados na criação de APIs robustas e aplicações data-driven.
 <!--
 ---
