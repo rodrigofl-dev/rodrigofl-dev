@@ -64,15 +64,13 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-52%2C00%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 18.6 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 130 Contribuições no ano de 2026
+> 🏆 132 Contribuições no ano de 2026
  > 
 > 💼 Aberto para contratação
  > 
@@ -83,21 +81,21 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 **Eu sou noturno 🦉** 
 
 ```text
-🌞 Manhã                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-🌆 Tarde                  89 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Noite                  143 commits         ████████████░░░░░░░░░░░░░   49.83 % 
-🌙 Madrugada              49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌞 Manhã                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+🌆 Tarde                  89 commits          ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌃 Noite                  145 commits         █████████████░░░░░░░░░░░░   50.17 % 
+🌙 Madrugada              49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 📅 **Sou mais produtivo em Segunda-Feira** 
 
 ```text
-Segunda-Feira            65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Terça-Feira              21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Quarta-Feira             49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Quinta-Feira             60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Sexta-Feira              44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Sábado                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Domingo                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Segunda-Feira            65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Terça-Feira              21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Quarta-Feira             49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Quinta-Feira             60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Sexta-Feira              44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Sábado                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Domingo                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 
@@ -124,7 +122,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:27:00 UTC
+ Last Updated on 26/07/2026 01:30:29 UTC
 <!--END_SECTION:waka-->
 
 **Essas estatísticas foram geradas usando Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
