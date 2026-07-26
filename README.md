@@ -1,10 +1,6 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
-
----
-
-<p align="center">
-  <b>Hello world, eu sou o Rodrigo!</b> <br>
-  Bem-vindo ao meu Github - a manifestação das minhas ideas, criatividade e um toque loucura. :grimacing: 
+<p align="center"> 
+  <b>Hello world, I'm Rodrigo!</b> <br>
+  Welcome to my Github - the manifestation of my ideas, creativity and a touch of madness. :grimacing: 
 </p>
 
 <div align="center">
@@ -15,13 +11,13 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou um entusiasta em tecnologia perdido entre dados e back-end.
+I am a Tech Enthusiast bridging the gap between Data and Backend Development. 
 
-- 💾 **Background:** Ex-DBA. Tenho muita experiência com manipulação de dados, administração de banco, modelagem e análise.
-- 🐍 **Foco atual:** Transicionando de DBA para ABD *(Awesome Backend Developer)* xD, construindo soluções escaláveis em Python.
-- 🎯 **Objetivo:** Aplicar minha bagagem de dados na criação de APIs robustas e aplicações data-driven.
+- 💾 **Background:** Former Database Administrator. I have solid experience with data analysis, manipulation, modeling, and DB management.
+- 🐍 **Current Focus:** Transitioning from DBA to ABD *(Awesome Backend Developer)* xD, building scalable solutions with Python.
+- 🎯 **Goal:** Applying my deep understanding of data persistence to create robust APIs and data-driven applications.
 <!--
 ---
 ### 🛠️ Tech Stack & Tools
@@ -43,7 +39,7 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 -->
 ---
 
-## 🚀 Portfólio
+## 🚀 Featured Portfolio
 
 <div align="center">
   <a href="https://github.com/rodrigofl-dev/aneleh-commerce-api">
@@ -104,7 +100,7 @@ Shell                    1 repo              ██░░░░░░░░░�
  Last Updated on 26/07/2026 01:40:15 UTC
 <!--END_SECTION:waka-->
 
-**Essas estatísticas foram geradas usando Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 <!--
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
