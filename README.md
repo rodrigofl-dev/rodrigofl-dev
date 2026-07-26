@@ -60,24 +60,24 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-53%2C45%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.45%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 Meus dados no GitHub** 
+**🐱 My GitHub Data** 
 
-> 📦 18.6 kB Usado no armazenamento do GitHub 
+> 📦 18.6 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contribuições no ano de 2026
+> 🏆 137 Contributions in the Year 2026
  > 
-> 💼 Aberto para contratação
+> 💼 Opted to Hire
  > 
-> 📜 9 Repositórios Públicos 
+> 📜 9 Public Repositories 
  > 
-> 🔑 0 Repositórios Privados 
+> 🔑 0 Private Repositories 
  > 
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projetos: 
+🐱‍💻 Projects: 
 Aneleh Commerce API      14 hrs 27 mins      ██████████████████████░░░   88.97 % 
 reaproveita              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 waka-readme-stats        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
@@ -85,7 +85,7 @@ vscode                   0 secs              ░░░░░░░░░░░�
 app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
-**Eu geralmente programo em Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
@@ -97,7 +97,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:40:15 UTC
+ Last Updated on 26/07/2026 01:55:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
