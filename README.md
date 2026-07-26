@@ -62,9 +62,9 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-52%2C00%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-53%2C45%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -78,27 +78,6 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
  > 
 > 🔑 0 Repositórios Privados 
  > 
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-🌆 Tarde                  89 commits          ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌃 Noite                  145 commits         █████████████░░░░░░░░░░░░   50.17 % 
-🌙 Madrugada              49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-```
-📅 **Sou mais produtivo em Segunda-Feira** 
-
-```text
-Segunda-Feira            65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Terça-Feira              21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Quarta-Feira             49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Quinta-Feira             60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Sexta-Feira              44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Sábado                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Domingo                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-```
-
-
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
@@ -122,7 +101,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:30:29 UTC
+ Last Updated on 26/07/2026 01:40:15 UTC
 <!--END_SECTION:waka-->
 
 **Essas estatísticas foram geradas usando Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
