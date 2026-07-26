@@ -62,15 +62,17 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-51%2C34%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-52%2C00%20mil%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 18.6 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 117 Contribuições no ano de 2026
+> 🏆 130 Contribuições no ano de 2026
  > 
 > 💼 Aberto para contratação
  > 
@@ -81,21 +83,21 @@ Sou um entusiasta em tecnologia perdido entre dados e back-end.
 **Eu sou noturno 🦉** 
 
 ```text
-🌞 Manhã                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-🌆 Tarde                  89 commits          ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌃 Noite                  131 commits         ████████████░░░░░░░░░░░░░   47.46 % 
-🌙 Madrugada              50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌞 Manhã                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+🌆 Tarde                  89 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Noite                  143 commits         ████████████░░░░░░░░░░░░░   49.83 % 
+🌙 Madrugada              49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 ```
 📅 **Sou mais produtivo em Segunda-Feira** 
 
 ```text
-Segunda-Feira            65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Terça-Feira              21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Quarta-Feira             51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Quinta-Feira             59 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Sexta-Feira              41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Sábado                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Domingo                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Segunda-Feira            65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Terça-Feira              21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Quarta-Feira             49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Quinta-Feira             60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Sexta-Feira              44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Sábado                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Domingo                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 
 
@@ -103,25 +105,26 @@ Domingo                  20 commits          ██░░░░░░░░░�
 
 ```text
 🐱‍💻 Projetos: 
-Aneleh Commerce API      11 hrs 36 mins      ███████████████████████░░   91.90 % 
-reaproveita              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Aneleh Commerce API      14 hrs 27 mins      ██████████████████████░░░   88.97 % 
+reaproveita              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+waka-readme-stats        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **Eu geralmente programo em Python** 
 
 ```text
-Python                   8 repos             ███████████████░░░░░░░░░░   61.54 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 02:38:13 UTC
+ Last Updated on 26/07/2026 01:27:00 UTC
 <!--END_SECTION:waka-->
 
 **Essas estatísticas foram geradas usando Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
