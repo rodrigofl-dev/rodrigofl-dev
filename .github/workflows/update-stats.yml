@@ -22,3 +22,5 @@ jobs:
           LOCALE: "pt"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
