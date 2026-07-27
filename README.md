@@ -58,7 +58,7 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.45%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -66,7 +66,7 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 
 > 📦 18.7 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2026
+> 🏆 137 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,11 +78,11 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 
 ```text
 🐱‍💻 Projects: 
-Aneleh Commerce API      14 hrs 27 mins      ██████████████████████░░░   88.97 % 
-reaproveita              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-waka-readme-stats        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Aneleh Commerce API      18 hrs 4 mins       ███████████████████████░░   93.36 % 
+waka-readme-stats        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+reaproveita              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:46:35 UTC
+ Last Updated on 27/07/2026 02:55:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
