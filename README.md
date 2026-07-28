@@ -58,17 +58,13 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.45%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.7 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -80,32 +76,10 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 
 ```text
 🐱‍💻 Projects: 
-Aneleh Commerce API      19 hrs 30 mins      ████████████████████████░   96.00 % 
-waka-readme-stats        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Aneleh Commerce API      21 hrs 3 mins       ████████████████████████░   96.28 % 
+waka-readme-stats        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 2 mins (5.1%)
-
-✍️ 27 lines written by AI, 1,174 lines written by hand (2.25% AI-written)
-
-🔤 74,836 Input Tokens, 1,454 Output Tokens
-
-💵 $0.25 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 22 AI Prompts
-
-Github-Copilot           27 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.25% of written lines came from AI
-📝 Concise Prompter — average 258 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +94,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:32:05 UTC
+ Last Updated on 28/07/2026 15:06:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
