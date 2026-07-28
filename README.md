@@ -55,8 +55,6 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 </div>
 -->
 
----
-
 <!--
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
