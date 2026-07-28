@@ -57,47 +57,6 @@ I am a Tech Enthusiast bridging the gap between Data and Backend Development.
 
 ---
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.45%20thousand%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 18.7 kB Used in GitHub's Storage 
- > 
-> 🏆 138 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-Aneleh Commerce API      21 hrs 3 mins       ████████████████████████░   96.28 % 
-waka-readme-stats        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-vscode                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-
- Last Updated on 28/07/2026 15:06:19 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 <!--
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
